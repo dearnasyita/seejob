@@ -10,15 +10,15 @@
     <title>Contact Us</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/images/logo/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/logo/favicon.png" type="image/x-icon">
 
     <!-- CSS Files -->
-    <link rel="stylesheet" href="assets/css/animate-3.7.0.css">
-    <link rel="stylesheet" href="assets/css/font-awesome-4.7.0.min.css">
-    <link rel="stylesheet" href="assets/fonts/flat-icon/flaticon.css">
-    <link rel="stylesheet" href="assets/css/bootstrap-4.1.3.min.css">
-    <link rel="stylesheet" href="assets/css/owl-carousel.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="/css/animate-3.7.0.css">
+    <link rel="stylesheet" href="/css/font-awesome-4.7.0.min.css">
+    <link rel="stylesheet" href="/fonts/flat-icon/flaticon.css">
+    <link rel="stylesheet" href="/css/bootstrap-4.1.3.min.css">
+    <link rel="stylesheet" href="/css/owl-carousel.min.css">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <!-- Preloader Starts -->
@@ -34,7 +34,7 @@
                 <div class="row">
                     <div class="col-lg-2">
                         <div class="logo-area">
-                            <a href="index.html"><img src="assets/images/logo-light.png" alt="logo"></a>
+                            <a href="index.html"><img src="/images/logo-light.png" alt="logo"></a>
                         </div>
                     </div>
                     <div class="col-lg-10">
@@ -188,14 +188,14 @@
                             <div class="single-widge-home">
                                 <h3 class="mb-4">instagram feed</h3>
                                 <div class="feed">
-                                    <img src="assets/images/feed1.jpg" alt="feed">
-                                    <img src="assets/images/feed2.jpg" alt="feed">
-                                    <img src="assets/images/feed3.jpg" alt="feed">
-                                    <img src="assets/images/feed4.jpg" alt="feed">
-                                    <img src="assets/images/feed5.jpg" alt="feed">
-                                    <img src="assets/images/feed6.jpg" alt="feed">
-                                    <img src="assets/images/feed7.jpg" alt="feed">
-                                    <img src="assets/images/feed8.jpg" alt="feed">
+                                    <img src="/images/feed1.jpg" alt="feed">
+                                    <img src="/images/feed2.jpg" alt="feed">
+                                    <img src="/images/feed3.jpg" alt="feed">
+                                    <img src="/images/feed4.jpg" alt="feed">
+                                    <img src="/images/feed5.jpg" alt="feed">
+                                    <img src="/images/feed6.jpg" alt="feed">
+                                    <img src="/images/feed7.jpg" alt="feed">
+                                    <img src="/images/feed8.jpg" alt="feed">
                                 </div>
                             </div>
                         </div>
@@ -229,14 +229,14 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 
     <!-- Javascript -->
-    <script src="assets/js/vendor/jquery-2.2.4.min.js"></script>
-	<script src="assets/js/vendor/bootstrap-4.1.3.min.js"></script>
-    <script src="assets/js/vendor/wow.min.js"></script>
-    <script src="assets/js/vendor/owl-carousel.min.js"></script>
-    <script src="assets/js/vendor/jquery.nice-select.min.js"></script>
+    <script src="/js/vendor/jquery-2.2.4.min.js"></script>
+	<script src="/js/vendor/bootstrap-4.1.3.min.js"></script>
+    <script src="/js/vendor/wow.min.js"></script>
+    <script src="/js/vendor/owl-carousel.min.js"></script>
+    <script src="/js/vendor/jquery.nice-select.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I"></script>
-    <script src="assets/js/vendor/gmaps.min.js"></script>
-    <script src="assets/js/vendor/ion.rangeSlider.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="/js/vendor/gmaps.min.js"></script>
+    <script src="/js/vendor/ion.rangeSlider.js"></script>
+    <script src="/js/main.js"></script>
 </body>
 </html>
